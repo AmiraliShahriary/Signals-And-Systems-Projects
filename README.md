@@ -1,2 +1,2 @@
-# Signal_-_Systems
+# Signal_And_Systems
 Signal and Systems course Matlab project.
