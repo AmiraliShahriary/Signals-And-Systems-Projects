@@ -1,4 +1,4 @@
-# Signal_And_Systems
+# Signal-And-Systems
 Signal and Systems course Matlab projects.
 This repository contains the Computer Assignment of Signals & Systems course Implemented with MATLAB @ ECE, University of Tehran, Fall 2023.
 
